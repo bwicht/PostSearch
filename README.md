@@ -37,7 +37,7 @@ Our project aims to give an art interactive experience in pictures databases. A 
 
 ## General Roadmap
 ### Project Developement
-- [x]First discussions to define project
+- [x] First discussions to define project
 - [x] Project presentation with core ideas and pipeline
 - [x] Review of existing similar projects
 - [x] Begin prototyping
