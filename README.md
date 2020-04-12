@@ -1,6 +1,6 @@
 # PostSearch
 
-##Project Description
+## Project Description
 
 Our project aims to give an art interactive experience in pictures databases. A user is invited to strike a pose in front of a camera. ONce the picture is taken, we will try to match the users position with a similar one in the databased created, a displayed it on screen. Informations will be displayed about the matched painting or picture. The purpose is twofolds. First, it's an interactive browsing exeprience, that involve the visitor in the exhibition directly. With his actions, the image that it diplayes is different. It beaks linearity, observable in traditional art exhibitons. Second, the images presented would maybe never have been found otherwise than through this body interaction. We offer a new tool to experience srendipity.
 
