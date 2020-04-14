@@ -23,6 +23,7 @@ Our project aims to give an art interactive experience in pictures databases. A 
 - An artistic browsing experience
 - A pipeline for future implementations and new interactive possibilites
 - Body involvement as searching possibilities
+
 ### Ditigital Humanities
 - The language of position
 - Evolving he positions trough centuries
@@ -30,6 +31,7 @@ Our project aims to give an art interactive experience in pictures databases. A 
 - State of the art of applicable technology for projects
 -  Computer Vision : Object detection and the nature of the object
 - API, metadata and interoperability
+- Ontologies
 - Remix Culture
 
 
