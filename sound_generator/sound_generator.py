@@ -53,3 +53,7 @@ class Sound_generator():
         player = vlc.MediaPlayer("piano_notes/"+note+".mp3")
         t = threading.Thread(target=player.play)
         t.start()
+        
+if __name__ == "__main__":
+    sg = Sound_generator()
+    sg.start()
