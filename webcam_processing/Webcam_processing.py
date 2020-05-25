@@ -148,3 +148,8 @@ class Webcam_processing():
         Classic pose similarity.
         """
         return spatial.distance.cosine(np.array(pose1).flatten(),np.array(pose2).flatten())
+    
+if __name__ == "__main__":
+    wb = Webcam_processing("webcam_images/","image_webcam.png","skeleton_webcam.png")
+    wb.take_picture()
+    print(wb.closest_match())
